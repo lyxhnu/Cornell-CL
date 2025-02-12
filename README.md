@@ -1,4 +1,4 @@
-# Continual Learning for Robotic Grasping
+# A multi-branch multimodal fusion and continual learning method for robotic grasping.
 
 This is a method related to RGB-D multimodal fusion and continual learning for 2D grasping in general grasping scenarios, as described in the following paper:
 A Grasp Detection Method Based on Continual Learning Using Perceptual Loss and Multi-Branch Deep Fusion，
