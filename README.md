@@ -1,4 +1,4 @@
-# A multi-branch multimodal fusion and continual learning method for robotic grasping.
+# A multi-branch multimodal fusion and continual learning method for robotic grasping
 
 This is a method related to RGB-D multimodal fusion and continual learning for 2D grasping in general grasping scenarios, as described in the following paper:
 A Grasp Detection Method Based on Continual Learning Using Perceptual Loss and Multi-Branch Deep Fusion，
@@ -10,6 +10,8 @@ by Qiaokang Liang,Yaoxin Lai, Songyun Deng, Xinhao Chen, Xiaoyu Yuan, and Li Zho
 2.This project proposes a continual learning strategy for 2D robotic grasping.
 3.The network we trained is integrated into the robotic grasping system, which is capable of autonomously grasping objects of various shapes that have never been seen before.
 # Show
+We have deployed the algorithm into the robotic grasping system, which is capable of autonomously grasping objects of various shapes。
+![System Demonstration](https://github.com/lyxhnu/photos/raw/main/robot.jpg))
 The following GIFs demonstrate the robot grasping spherical objects, objects with handles, rectangular objects, edge-graspable objects, and slender objects.
 ![Grasping spherical objects](https://github.com/lyxhnu/photos/raw/main/%E7%90%83%E5%BD%A21.gif)
 ![Grasping objects with handles](https://github.com/lyxhnu/photos/raw/main/%E6%8A%8A%E6%89%8B1.gif)
