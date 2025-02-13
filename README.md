@@ -11,7 +11,7 @@ by Qiaokang Liang,Yaoxin Lai, Songyun Deng, Xinhao Chen, Xiaoyu Yuan, and Li Zho
 3.The network we trained is integrated into the robotic grasping system, which is capable of autonomously grasping objects of various shapes that have never been seen before.
 # Show
 We have deployed the algorithm into the robotic grasping system, which is capable of autonomously grasping objects of various shapes。
-![System Demonstration](https://github.com/lyxhnu/photos/raw/main/robot.jpg))
+![System Demonstration](https://github.com/lyxhnu/photos/raw/main/robot.jpg)
 
 The following GIFs demonstrate the robot grasping spherical objects, objects with handles, rectangular objects, edge-graspable objects, and slender objects.
 ![Grasping spherical objects](https://github.com/lyxhnu/photos/raw/main/%E7%90%83%E5%BD%A21.gif)
