@@ -35,3 +35,5 @@ The following two GIFs demonstrate the scenario of the robot autonomously and co
 
 # Attention!
 Since our paper is currently under peer review, we will release the related code after the paper is accepted.
+# References
+This project utilizes the [Cornell Grasp Dataset](http://pr.cs.cornell.edu/grasping/rect_data/data.php) for training and evaluation.
