@@ -30,7 +30,7 @@ The following GIFs demonstrate the robot grasping spherical objects, objects wit
 ![Grasping slender objects](https://github.com/lyxhnu/photos/raw/main/%E9%95%BF%E6%9D%A11.gif)
 <p align="center">Grasping slender objects</p>
 
-The following two GIFs demonstrate the scenario of the robot continuously grasping multiple objects.
+The following two GIFs demonstrate the scenario of the robot continuously grasping objects.
 ![Sequential Grasping 1](https://github.com/lyxhnu/Cornell-CL/blob/main/%E8%BF%9E%E7%BB%AD%E6%8A%93%E5%8F%961.gif)
 <p align="center">Sequential Grasping 1</p>
 
