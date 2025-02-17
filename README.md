@@ -16,11 +16,11 @@ We have deployed the algorithm into the robotic grasping system, which is capabl
 The following GIFs demonstrate the robot autonomously grasping spherical objects, objects with handles, rectangular objects, edge-graspable objects, and slender objects.
 <table>
   <tr>
-    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E7%90%83%E5%BD%A21.gif" alt="Grasping spherical objects"><p align="center" style="font-size: 5px;">Grasping spherical objects</p></td>
-    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E6%8A%8A%E6%89%8B1.gif" alt="Grasping objects with handles"><p align="center" style="font-size: 5px;">Grasping objects with handles</p></td>
-    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E7%9F%A9%E5%BD%A21.gif" alt="Grasping rectangular objects"><p align="center" style="font-size: 5px;">Grasping rectangular objects</p></td>
-    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E8%BE%B9%E7%BC%981.gif" alt="Grasping edge-graspable objects"><p align="center" style="font-size: 5px;">Grasping edge-graspable objects</p></td>
-    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E9%95%BF%E6%9D%A11.gif" alt="Grasping slender objects"><p align="center" style="font-size: 5px;">Grasping slender objects</p></td>
+    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E7%90%83%E5%BD%A21.gif" alt="Grasping spherical objects"><p align="center" style="font-size: 2.5x;">Grasping spherical objects</p></td>
+    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E6%8A%8A%E6%89%8B1.gif" alt="Grasping objects with handles"><p align="center" style="font-size: 2.5px;">Grasping objects with handles</p></td>
+    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E7%9F%A9%E5%BD%A21.gif" alt="Grasping rectangular objects"><p align="center" style="font-size: 2.5px;">Grasping rectangular objects</p></td>
+    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E8%BE%B9%E7%BC%981.gif" alt="Grasping edge-graspable objects"><p align="center" style="font-size: 2.5px;">Grasping edge-graspable objects</p></td>
+    <td><img src="https://github.com/lyxhnu/photos/raw/main/%E9%95%BF%E6%9D%A11.gif" alt="Grasping slender objects"><p align="center" style="font-size: 2.5px;">Grasping slender objects</p></td>
   </tr>
 </table>
 The following two GIFs demonstrate the scenario of the robot autonomously and continuously grasping objects.
