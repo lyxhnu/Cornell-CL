@@ -1,6 +1,6 @@
-# Continual Robotic Grasping Detection via Multi-Branch Fusion with Perceptual Loss
+# A Grasp Method Based on Continual Learning Using Perceptual Loss and Muti-Branch Deep Fusion
 This is a method related to RGB-D multimodal fusion and continual learning for 2D grasping in general grasping scenarios, as described in the following paper:
-Continual Robotic Grasping Detection via Multi-Branch Fusion with Perceptual Loss，
+A Grasp Method Based on Continual Learning Using Perceptual Loss and Muti-Branch Deep Fusion，
 by Qiaokang Liang,Yaoxin Lai, Songyun Deng, Xinhao Chen, Xiaoyu Yuan, and Li Zhou
 
 
